@@ -184,10 +184,7 @@ class Productos {
 }
 
 let lista = new listaProductos();
-let producto = new Productos(5, "chupas", 100, 200);
-lista.agregar(producto);
-producto = new Productos(6, "chupas", 100, 200);
-lista.agregar(producto);
+let producto = new Productos(5, "producto", 100, 200);
 
 
 function agregar(){
@@ -273,10 +270,3 @@ function listarInverso(){
     elementos.innerHTML = lista.listarInverso();
     accciones.innerHTML += "Se listaron los productos<br>";
 }
-
-//producto = new Productos(6, "manzana verde", 2, 4)
-
-
-//caso en medio
-//borrado.ant.sig = b.sig;
-//borrado.sig.ant = borrado.ant;
