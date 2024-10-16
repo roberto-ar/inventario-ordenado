@@ -1,2 +1,3 @@
 # inventario-ordenado
-Un inventario de productos ordenado por codigo basico con listas enlazadas dobles usando javascript
+
+Un inventario de productos ordenado por codigo basico con listas enlazadas dobles usando javascript y un basico css
